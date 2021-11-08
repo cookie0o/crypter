@@ -11,7 +11,7 @@ from _encrypt_.encrypt import encrypt_func
 
 def main():
     import ctypes
-    ctypes.windll.kernel32.SetConsoleTitleW("crypter [v1.1]")
+    ctypes.windll.kernel32.SetConsoleTitleW("crypter [v1.2]")
     #logo-version
     print (f"""{Back.BLACK}{Fore.LIGHTCYAN_EX}\
      .o88b. d8888b. db    db d8888b. d888888b d88888b d8888b. 
