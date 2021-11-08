@@ -1,10 +1,11 @@
 
 ```diff
 ♦a file encrypter/decrypter a made for fun!♦
-
+```
+```diff
 app:
 ```
-![image](https://user-images.githubusercontent.com/81589649/140621129-52133396-3e9a-49f8-8884-7385b7abb347.png)
+![crypter_prew](https://user-images.githubusercontent.com/81589649/140768836-0b1eeeac-e71d-4117-bf16-b1f5f664d229.png)
 
 ```diff
 icon:
