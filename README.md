@@ -8,7 +8,7 @@ app:
 ![prew_crypter](https://user-images.githubusercontent.com/81589649/140769670-d625cb2c-3666-44d5-b6ea-19de37e39d24.png)
 
 ```diff
-yes this is windows 11 i ❤️ it :)
+yes this is windows 11, i ❤️ it! :)
 
 icon:
 ```
