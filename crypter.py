@@ -6,12 +6,13 @@ import time
 from _decrypt_.decrypt import decrypt_func
 from _encrypt_.encrypt import encrypt_func
 
-
+#version of project
+ver = ("v1.2")
 
 
 def main():
     import ctypes
-    ctypes.windll.kernel32.SetConsoleTitleW("crypter [v1.2]")
+    ctypes.windll.kernel32.SetConsoleTitleW(f"crypter [{ver}]")
     #logo-version
     print (f"""{Back.BLACK}{Fore.LIGHTCYAN_EX}\
      .o88b. d8888b. db    db d8888b. d888888b d88888b d8888b. 
@@ -20,7 +21,7 @@ def main():
     8b      88`8b      88    88~~~      88    88~~~~~ 88`8b   
     Y8b  d8 88 `88.    88    88         88    88.     88 `88. 
      `Y88P' 88   YD    YP    88         YP    Y88888P 88   YD """)
-    print (f"{Back.BLACK}{Fore.LIGHTRED_EX}v1.1                          [made by; cookie-_-#2131 on dc]")
+    print (f"{Back.BLACK}{Fore.LIGHTRED_EX}{ver}                          [made by; cookie-_-#2131 on dc]")
     print (" ")
 
     #ask input
