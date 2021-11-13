@@ -7,7 +7,7 @@ from _decrypt_.decrypt import decrypt_func
 from _encrypt_.encrypt import encrypt_func
 
 #version of project
-ver = ("v1.2")
+ver = ("v1.3")
 
 
 def main():
