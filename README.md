@@ -5,7 +5,7 @@
 app:
 ```
 
-![prew_crypter](https://user-images.githubusercontent.com/81589649/140769670-d625cb2c-3666-44d5-b6ea-19de37e39d24.png)
+![grafik](https://user-images.githubusercontent.com/81589649/143726116-d3c49d77-ace0-45e4-8d63-b694fbc65022.png)
 
 ```diff
 yes this is windows 11, i ❤️ it! :)
