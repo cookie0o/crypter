@@ -7,7 +7,7 @@ from _decrypt_.decrypt import decrypt_func
 from _encrypt_.encrypt import encrypt_func
 
 #version of project
-ver = ("v1.4")
+ver = ("v1.5")
 
 
 def main():
@@ -46,4 +46,3 @@ Y8b  d8 88 `88.    88    88         88    88.     88 `88.
         os.system("cls")
         main()
 
-main()
