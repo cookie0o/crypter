@@ -16,6 +16,7 @@ import os.path
 
 #decrypt-file-folder
 def decrypt_func():
+
     #ask encrypted path
     print (f"{Back.BLACK}{Fore.LIGHTGREEN_EX}pls enter the path of the file/folder you want to decrypt [the imp path needs to end with \]:")
     #get encrypted path input
@@ -66,7 +67,7 @@ def decrypt_func():
             else:
                 print(" ")
                 print(f"{Back.BLACK}{Fore.GREEN}done! have fun with your data")
-                print("donate: https://www.buymeacoffee.com/cookie0.0")
+                print("donate BTC: https://bit.ly/3D5gxcB")
                 #wait
                 time.sleep(10)
                 #del cache
@@ -79,7 +80,7 @@ def decrypt_func():
         else:
             print(" ")
             print(f"{Back.BLACK}{Fore.GREEN}done! have fun with your data")
-            print("donate: https://www.buymeacoffee.com/cookie0.0")
+            print("donate BTC: https://bit.ly/3D5gxcB")
             #wait
             time.sleep(10)
             #del cache

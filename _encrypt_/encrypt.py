@@ -74,7 +74,7 @@ def encrypt_func():
                 print(f"{Back.BLACK}{Fore.GREEN}done! here is your encryption key you´ll need it for decryption[NOTE: if you lose it your file´s are gone!]")
                 #print key
                 print(f"{Back.BLACK}{Fore.LIGHTCYAN_EX}{key}")
-                print("donate: https://www.buymeacoffee.com/cookie0.0")
+                print("donate BTC: https://bit.ly/3D5gxcB")
                 #del key
                 os.remove("YOUR_KEY_PLS_SAVE.key")
                 #wait
@@ -85,12 +85,12 @@ def encrypt_func():
                 exit()
 
         
-        #dont del original files
+        #don't del original files
         else:
             print(f"{Back.BLACK}{Fore.GREEN}done! here is your encryption key you´ll need it for decryption[NOTE: if you lose it your file´s are gone!]")
             #print key
             print(f"{Back.BLACK}{Fore.LIGHTCYAN_EX}{key}")
-            print("donate: https://www.buymeacoffee.com/cookie0.0")
+            print("donate BTC: https://bit.ly/3D5gxcB")
             #wait
             time.sleep(5)
             #del key
