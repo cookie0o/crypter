@@ -13,6 +13,7 @@ import subprocess
 import glob
 import os.path
 
+donate_link = "https://bit.ly/3gE7R48" #updated donate link
 
 #encrypt file-folder
 def encrypt_func():
@@ -74,7 +75,7 @@ def encrypt_func():
                 print(f"{Back.BLACK}{Fore.GREEN}done! here is your encryption key you´ll need it for decryption[NOTE: if you lose it your file´s are gone!]")
                 #print key
                 print(f"{Back.BLACK}{Fore.LIGHTCYAN_EX}{key}")
-                print("donate BTC: https://bit.ly/3D5gxcB")
+                print(f"donate BTC: {donate_link}")
                 #del key
                 os.remove("YOUR_KEY_PLS_SAVE.key")
                 #wait
@@ -90,7 +91,7 @@ def encrypt_func():
             print(f"{Back.BLACK}{Fore.GREEN}done! here is your encryption key you´ll need it for decryption[NOTE: if you lose it your file´s are gone!]")
             #print key
             print(f"{Back.BLACK}{Fore.LIGHTCYAN_EX}{key}")
-            print("donate BTC: https://bit.ly/3D5gxcB")
+            print(f"donate BTC: {donate_link}")
             #wait
             time.sleep(5)
             #del key
