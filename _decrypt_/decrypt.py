@@ -13,6 +13,7 @@ import subprocess
 import glob
 import os.path
 
+donate_link = "https://bit.ly/3gE7R48" #updated donate link
 
 #decrypt-file-folder
 def decrypt_func():
@@ -67,7 +68,7 @@ def decrypt_func():
             else:
                 print(" ")
                 print(f"{Back.BLACK}{Fore.GREEN}done! have fun with your data")
-                print("donate BTC: https://bit.ly/3D5gxcB")
+                print(f"donate BTC: {donate_link}")
                 #wait
                 time.sleep(10)
                 #del cache
@@ -80,7 +81,7 @@ def decrypt_func():
         else:
             print(" ")
             print(f"{Back.BLACK}{Fore.GREEN}done! have fun with your data")
-            print("donate BTC: https://bit.ly/3D5gxcB")
+            print(f"donate BTC: {donate_link}")
             #wait
             time.sleep(10)
             #del cache
